@@ -1,5 +1,4 @@
--git merge ---
--git branch
--git checkout ---
--git checkot -b ---
--
+-git merge --- (junta)
+-git branch (visualisa)
+-git checkout --- (muda)
+-git checkot -b --- (cria)
