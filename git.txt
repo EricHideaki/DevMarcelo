@@ -2,4 +2,4 @@
 -git branch
 -git checkout ---
 -git checkot -b ---
--
+-git push origin --delete ---
